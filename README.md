@@ -1,3 +1,18 @@
+## 🧑‍💻 My Fork — Harshad Khetpal (DevOps / MLOps Engineer)
+
+I use this fork of n8n to build **self-hosted automation workflows** that connect DevOps tooling, communication platforms, and AI APIs. Replaces multiple point-to-point integrations with unified workflow automation.
+
+### My Setup
+- Self-hosted on Kubernetes with PostgreSQL for workflow persistence
+- Custom n8n nodes for internal tools: Jira, PagerDuty, internal APIs
+- AI-powered workflows: GitHub issue triage via LLM, automated incident summaries
+- Webhook-triggered workflows replacing manual DevOps toil
+
+### Why I forked this
+Building custom credential types and node extensions for internal platform integrations. Also experimenting with n8n as an AI agent orchestration layer using LangChain-style tool workflows.
+
+---
+
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
 # n8n - Secure Workflow Automation for Technical Teams
